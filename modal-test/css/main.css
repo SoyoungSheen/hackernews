@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+
+.text {
+	width: 60rem;
+	height: 30rem;
+
+	font-family: "Newsreader", serif;
+	font-size: 3rem;
+	font-style: italic;
+	font-weight: 400;
+	margin-left: 3rem;
+	margin-top: 3rem;
+	line-height: 138.2%;
+	letter-spacing: 2.5%;
+}
+.congrats {
+	width: 60rem;
+	height: 30rem;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.svg {
+	width: 20rem;
+	height: 20rem;
+}
